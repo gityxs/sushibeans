@@ -32,14 +32,14 @@ p {
 
 #infinity {
   width: 31%;
-  background-image: url("https://wallpaperaccess.com/thumb/1788476.jpg");
+  background-image: url("1788476.jpg");
   border: 3px solid black;
 }
 
 #collapse {
   width: 65%;
   height: 75px;
-  background-image: url("https://maryshakshober.com/grid2.png");
+  background-image: url("grid2.png");
   background-position: center;
   background-size: 100%;
   color: #d5f1f5;
@@ -52,7 +52,7 @@ p {
   border: 3px solid #7100ad;
   right: 0;
   top: 0;
-  background-image: url("https://1-background.com/images/stars-1/beautiful-blue-stars-fill.jpg");
+  background-image: url("beautiful-blue-stars-fill.jpg");
 }
 
 .singularity_button {
@@ -69,7 +69,7 @@ p {
   background-size: cover;
   background-position: center;
   border: 5px solid blue;
-  background-image: url("https://www.reasonablefaith.org/images/rf_podcasts/rf_detail_398_0.jpg");
+  background-image: url("rf_detail_398_0.jpg");
 }
 
 .wait_button {
@@ -86,7 +86,7 @@ p {
   border: 3px solid #0300ad;
   right: 0;
   top: 0;
-  background-image: url("https://cdn.glitch.com/31b3cdd5-f8cb-4b36-a184-2d7b81018c29%2Fsushibeans_space.jpg?v=1584334070080");
+  background-image: url("31b3cdd5-f8cb-4b36-a184-2d7b81018c29-sushibeans_space.jpg?v=1584334070080");
   background-position: center;
 }
 
@@ -100,7 +100,7 @@ p {
 }
 
 #heavenly_buy {
-  background-image: url("https://cdn.glitch.com/31b3cdd5-f8cb-4b36-a184-2d7b81018c29%2Fsushibeansback2.jpg?v=1584608374081");
+  background-image: url("31b3cdd5-f8cb-4b36-a184-2d7b81018c29-sushibeansback2.jpg?v=1584608374081");
   color: #b89f00;
   text-shadow: 2px 2px #000000;
   width: 100%;
@@ -109,7 +109,7 @@ p {
 }
 
 #upgrade_dice {
-  background-image: url("https://cdn.glitch.com/31b3cdd5-f8cb-4b36-a184-2d7b81018c29%2Fsushibeansback2.jpg?v=1584608374081");
+  background-image: url("31b3cdd5-f8cb-4b36-a184-2d7b81018c29-sushibeansback2.jpg?v=1584608374081");
   color: #b89f00;
   text-shadow: 2px 2px #000000;
   width: 100%;
@@ -123,7 +123,7 @@ p {
   border: 3px solid #ffff63;
   right: 16%;
   top: 1%;
-  background-image: url("https://cdn.glitch.com/31b3cdd5-f8cb-4b36-a184-2d7b81018c29%2Fsushibeansback1.png?v=1584592030598");
+  background-image: url("31b3cdd5-f8cb-4b36-a184-2d7b81018c29-sushibeansback1.png?v=1584592030598");
   background-position: center;
 }
 
