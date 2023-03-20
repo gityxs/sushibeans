@@ -117,7 +117,7 @@ var cnItems = {
     "Get a \"Collapse\" autoclicker": "获取“坍缩”自动点击器",
     "Gun (for safety)": "枪（安全起见）",
     "Hold on, wait a second!": "稍等，等一下！",
-    "Also, thank you to the people on discord for giving me feedback. You lot are fantastic.": "另外，感谢不和谐的人给我反馈。 你们太棒了。",
+    "Also, thank you to the people on discord for giving me feedback. You lot are fantastic.": "另外，感谢Discord的人给我反馈。 你们太棒了。",
     "And for the last time, I really don't know what sushi beans are.": "最后一次，我真的不知道什么是寿司豆。",
     "Ascend again, and enter the omniverse": "再次飞升，进入全宇宙",
     "Ascend beyond your home universe and enter the full sushiverse, \n        surpassing infinity and allowing for over 10^308 sushi beans": "超越你的家庭宇宙，进入完整的 sushiverse，\n 超越无限并允许超过 10^308 个寿司豆",
